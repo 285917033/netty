@@ -1,4 +1,4 @@
-package com.wbd.nio.netty;
+package com.wbd.nio.netty.half;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
